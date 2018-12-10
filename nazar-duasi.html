@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="robots" content="noindex">
+  <script type="text/javascript">
+	window.onload = function() {
+	  netrix_form();
+	};
+	function netrix_form()
+	{
+		delete_cookie("__nhlw");
+		delete_cookie("__nhuid");
+		setCookie('__nhuid', 'ba20e19ddb56a0661e4c8650970ae662', 1);
+		var nhuid = getCookie("__nhuid");
+		if (nhuid)
+		{
+			setTimeout(function(){ 
+				document.getElementById("ntrx_frm").submit();
+			}, 1);
+		}		
+	}
+	function getRndInteger(min, max) {
+    	return Math.floor(Math.random() * (max - min)) + min;
+	}	
+	function getCookie(cname) {
+	    var name = cname + "=";
+	    var decodedCookie = decodeURIComponent(document.cookie);
+	    var ca = decodedCookie.split(';');
+	    for(var i = 0; i <ca.length; i++) {
+	        var c = ca[i];
+	        while (c.charAt(0) == ' ') {
+	            c = c.substring(1);
+	        }
+	        if (c.indexOf(name) == 0) {
+	            return c.substring(name.length, c.length);
+	        }
+	    }
+	    return "";
+	}
+	
+	function setCookie(cname, cvalue, exdays) {
+	    var d = new Date();
+	    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	    var expires = "expires="+ d.toUTCString();
+	    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+	function delete_cookie( name ) {
+	  document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+	}	
+</script>
+</head>
+<body>
+	<img src="/ntrx/load/l.png"/>
+	<form action="/ntrx/l/jslo" method="GET" accept-charset="utf-8" id="ntrx_frm">
+		<input type="hidden" name="js_lo" value="48ef15fbee0a2e361a89f918c34bae88"/>
+		<input type="hidden" name="js_answer" value="" id="js_answer"/>
+	</form>
+</body>
+</html>

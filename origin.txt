@@ -1,0 +1,116 @@
+Uri: https://www.live.youtubeturkiye.net/
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\index.html
+Content Type: text/html
+
+Uri: https://s3-us-west-1.amazonaws.com/grin-market/static/site/fonts/fontello.eot
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\grin-market\static\site\fonts\fontello.eot
+Content Type: binary/octet-stream
+
+Uri: https://s3-us-west-1.amazonaws.com/grin-market/static/site/fonts/fontello.woff2
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\grin-market\static\site\fonts\fontello.woff2
+Content Type: binary/octet-stream
+
+Uri: https://s3-us-west-1.amazonaws.com/grin-market/static/site/fonts/fontello.woff
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\grin-market\static\site\fonts\fontello.woff
+Content Type: application/font-woff
+
+Uri: https://s3-us-west-1.amazonaws.com/grin-market/static/site/fonts/fontello.ttf
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\grin-market\static\site\fonts\fontello.ttf
+Content Type: binary/octet-stream
+
+Uri: https://s3-us-west-1.amazonaws.com/grin-market/static/site/fonts/fontello.svg
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\grin-market\static\site\fonts\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://www.live.youtubeturkiye.net/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://sumome-140a.kxcdn.com/virtual/db9f3a5230a127131201452a51cd2af0e979809e/client/css/highlighter-popup.css
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\virtual\db9f3a5230a127131201452a51cd2af0e979809e\client\css\highlighter-popup.css
+Content Type: text/css
+
+Uri: https://sumome-140a.kxcdn.com/virtual/95cc4e503a7a593cfc07f72b32f15ea2118f82cf/client/css/sumome-share-client.css
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\virtual\95cc4e503a7a593cfc07f72b32f15ea2118f82cf\client\css\sumome-share-client.css
+Content Type: text/css
+
+Uri: https://sumome-140a.kxcdn.com/virtual/41d6af4f9dcbec50e51e119e020e0bf98da2da62/client/css/listbuilder-popup.css
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\virtual\41d6af4f9dcbec50e51e119e020e0bf98da2da62\client\css\listbuilder-popup.css
+Content Type: text/css
+
+Uri: https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw?sub_confirmation=1
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\channel\UC-lHJZR3Gqxm24_Vd_AJ5Yw.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/tweet?url=http://live.youtubeturkiye.net/&amp;text=View PewDiePie's live subscriber count on Grin!
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\intent\tweet.html
+Content Type: text/html
+
+Uri: http://huzurkapisi.com/nazar-duasi
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\nazar-duasi.html
+Content Type: text/html
+
+Uri: https://kazan.youtubeturkiye.net/
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\index-1.html
+Content Type: text/html
+
+Uri: https://sumome-140a.kxcdn.com/virtual/813233f17ba58032bd8cb5973576d7a63b5eefdb/client/js/156085c5-0017-4150-b225-a731ad248f38/service.js
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\virtual\813233f17ba58032bd8cb5973576d7a63b5eefdb\client\js\156085c5-0017-4150-b225-a731ad248f38\service.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://yt3.ggpht.com/-rJq9gk1QIis/AAAAAAAAAAI/AAAAAAAAAAA/Kx4wkvKOfxY/s88-c-k-no-mo-rj-c0xffffff/photo.jpg
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\-rJq9gk1QIis\AAAAAAAAAAI\AAAAAAAAAAA\Kx4wkvKOfxY\s88-c-k-no-mo-rj-c0xffffff\photo.jpeg
+Content Type: image/jpeg
+
+Uri: https://s3-us-west-1.amazonaws.com/grin-market/static/site/sounds/up.mp3
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\grin-market\static\site\sounds\up.mp3
+Content Type: audio/mp3
+
+Uri: https://s3-us-west-1.amazonaws.com/grin-market/static/site/sounds/down.mp3
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\grin-market\static\site\sounds\down.mp3
+Content Type: audio/mp3
+
+Uri: https://www.google-analytics.com/gtm/js?id=GTM-WB32J8M&amp;cid=915189884.1496742582
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\gtm\js.js
+Content Type: application/javascript
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\analytics.js
+Content Type: text/javascript
+
+Uri: https://load.sumome.com/
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\index.js
+Content Type: application/javascript
+
+Uri: https://www.live.youtubeturkiye.net/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.live.youtubeturkiye.net/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.live.youtubeturkiye.net/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.live.youtubeturkiye.net/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.live.youtubeturkiye.net/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.live.youtubeturkiye.net/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.facebook.com/login.php?next=https:%2F%2Fwww.facebook.com%2Fsharer%2Fsharer.php%3Ft%3DView%2BPewDiePie%2527s%2Blive%2Bsubscriber%2Bcount%2Bon%2BGrin%2521%26amp%253Bu%3Dhttp%253A%252F%252Flive.youtubeturkiye.net%252F%26ret%3Dlogin&display=popup
+File Name: c:\Downloaded Web Sites\www.live.youtubeturkiye.net\login.html
+Content Type: text/html
+
